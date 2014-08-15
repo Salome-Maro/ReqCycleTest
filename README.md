@@ -1,2 +1,2 @@
-PolarSys ReqCycle
-=================
+Tests of PolarSys ReqCycle
+==========================
